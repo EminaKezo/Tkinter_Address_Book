@@ -18,7 +18,10 @@ or email.
 I made this to practice my python programming skills and ability to design a GUI.
 
 ## Screenshots
-
+![](screenshots/Capture1.PNG)
+![](screenshots/Capture2.PNG)
+![](screenshots/Capture3.PNG)
+![](screenshots/Capture4.PNG)
 ## Technologies
 * Python - version 3.8.5
 
