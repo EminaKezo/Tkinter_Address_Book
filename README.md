@@ -55,4 +55,4 @@ To-do list:
 Project version 1 is: _finished_ looking forward to new more secure version
 
 ## Contact
-Created by [@EminaKezo] - feel free to contact me!
+Created by [@EminaKezo](https://www.linkedin.com/in/emina-kezo/) - feel free to contact me!
