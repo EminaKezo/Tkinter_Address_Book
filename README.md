@@ -31,8 +31,8 @@ I made this to practice my python programming skills and ability to design a GUI
 $ pip install Pillow <br />
 $ pip install center_tk_window
 
-2. If it is the first time running program from clean start, uncomment the CREATE DATABASE TABLE CODE 
-lines 35 - 42
+2. If it is the first time running program from clean start
+Uncomment the CREATE DATABASE TABLE CODE at lines 35 - 42
 
 3. Then run program
 
@@ -46,6 +46,9 @@ List of features ready and TODOs for future development
 
 To-do list:
 * Add more new contact restrictions with validation
+* Automate create database table so user doesn't have to uncomment at first use
+* Restrict empty entries 
+* Align elements more precisely 
 
 
 ## Status
