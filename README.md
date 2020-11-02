@@ -28,7 +28,7 @@ I made this to practice my python programming skills and ability to design a GUI
 ## Setup
 1. Libraries you will need to install
 
-$ pip install Pillow
+$ pip install Pillow <br />
 $ pip install center_tk_window
 
 2. If it is the first time running program from clean start, uncomment the CREATE DATABASE TABLE CODE 
