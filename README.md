@@ -52,7 +52,8 @@ To-do list:
 
 
 ## Status
-Project version 1 is: _finished_ looking forward to new more secure version
+Project version 1 is: _finished_ looking forward to new more secure version < br>
+Check TODOs
 
 ## Contact
 Created by [@EminaKezo](https://www.linkedin.com/in/emina-kezo/) - feel free to contact me!
